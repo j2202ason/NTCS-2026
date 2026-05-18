@@ -50,12 +50,13 @@ python main.py
   - `extractor/` — analysis process data
   - `cluster/` — clustering results
   - `visualdata/` — radar chart outputs
-- `JSON/` — experimental data and Cases data in JSON format
-  - `exp_data_case0.json/` — experimental data of case0 in JSON format
-  - `exp_data_case1.json/` — experimental data of case1 in JSON format
-  - `exp_data_case2.json/` — experimental data of case2 in JSON format
-  - `exp_data_case3.json/` — experimental data of case3 in JSON format
-  - `exp_data_case4.json/` — experimental data of case4 in JSON format
+- `MD/` — experimental data and Cases data in JSON format
+  - `cases.md/` — The case selected for the experiment
+  - `exp_data_case0.md/` — experimental data of case0
+  - `exp_data_case1.md/` — experimental data of case1
+  - `exp_data_case2.md/` — experimental data of case2
+  - `exp_data_case3.md/` — experimental data of case3
+  - `exp_data_case4.md/` — experimental data of case4
   -  `cases0.json/` — Cases source data in JSON format
 - `requirements.txt` — dependency list
 
